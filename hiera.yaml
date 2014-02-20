@@ -8,4 +8,4 @@
   - global
 
 :yaml:
-  :datadir: '/etc/puppetlabs/puppet/hiera/%{environment}/hieradata'
+  :datadir: '/etc/puppetlabs/puppet/hiera/hiera_%{environment}/hieradata'
